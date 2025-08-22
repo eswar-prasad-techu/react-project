@@ -15,6 +15,7 @@ const Nav = () => {
     >
       <div style={{ background: "#ffffff" }}>Items: {cart.length}</div>
       <div style={{ background: "#ffffff" }}>Total Price : {totalPrice}</div>
+      <div style={{ background: "#ffffff" }}>dummy : {totalPrice}</div>
       hello
     </div>
   );
